@@ -11,7 +11,7 @@
                     <el-main>
                         <router-view v-if="routePath"></router-view>
 						<div class="home_blank" v-else>
-							欢迎来到shopshops后台管理系统！
+							欢迎来到后台管理系统！
 						</div>
                     </el-main>
                     <!-- <el-footer>Footer</el-footer> -->
